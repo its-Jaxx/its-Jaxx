@@ -3,11 +3,10 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=its-jaxx&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/its-jaxx?template=classic)
 
 ## I'm **Jaxx**, developer from Oakley, California.
-- 18 y/o 
-- [My Discord](https://discordapp.com/users/922843169480122388/){:target="_blank"}
-- [My Steam](https://steamcommunity.com/id/jaxx100/){:target="_blank"}
-- [Website](https://its-jaxx.github.io/){:target="_blank"}
-- <a href="http://example.com/" target="_blank">example</a>
+- 18 y/o
+- <a href="https://discordapp.com/users/922843169480122388/" target="_blank">example</a>
+- <a href="https://steamcommunity.com/id/jaxx100/" target="_blank">example</a>
+- <a href="http://its-jaxx.github.io/" target="_blank">Website</a>
 
 ### Languages that I'm currently working with 💻
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
