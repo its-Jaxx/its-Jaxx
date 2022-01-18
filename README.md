@@ -4,9 +4,9 @@
 
 ## I'm **Jaxx**, developer from Oakley, California.
 - 18 y/o
-- <a href="https://discordapp.com/users/922843169480122388/" target="_blank">example</a>
-- <a href="https://steamcommunity.com/id/jaxx100/" target="_blank">example</a>
-- <a href="http://its-jaxx.github.io/" target="_blank">Website</a>
+- <a href="https://discordapp.com/users/922843169480122388/" target="_blank">My Discord</a>
+- <a href="https://steamcommunity.com/id/jaxx100/" target="_blank">My Steam</a>
+- <a href="http://its-jaxx.github.io/" target="_blank">My Website</a>
 
 ### Languages that I'm currently working with 💻
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
