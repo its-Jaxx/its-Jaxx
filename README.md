@@ -6,7 +6,7 @@
 - 18 y/o 
 - [My Discord](https://discordapp.com/users/922843169480122388/)
 - [My Steam](https://steamcommunity.com/id/jaxx100/)
-- [Website](https://its-jaxx.github.io/website.html)
+- [Website](https://its-jaxx.github.io/)
 
 ### Languages that I'm currently working with 💻
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
