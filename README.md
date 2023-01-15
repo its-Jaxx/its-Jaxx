@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=its-jaxx&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/its-jaxx?template=classic)
 
 ## I'm **Jaxx**, developer from Oakley, California.
-- 18 y/o
+- 19 y/o
 - <a href="https://discordapp.com/users/922843169480122388/" target="_blank" rel="noopener noreferrer">My Discord</a>
 - <a href="https://steamcommunity.com/id/jaxx100/" target="_blank" rel="noopener noreferrer">My Steam</a>
 - <a href="http://its-jaxx.github.io/" target="_blank" rel="noopener noreferrer">My Website</a>
