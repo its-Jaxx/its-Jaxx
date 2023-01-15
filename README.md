@@ -5,7 +5,7 @@
 ## I'm **Jaxx**, developer from Oakley, California.
 - 19 y/o
 - <a href="https://discordapp.com/users/922843169480122388/" target="_blank" rel="noopener noreferrer">My Discord</a>
-- <a href="https://steamcommunity.com/id/jaxx100/" target="_blank" rel="noopener noreferrer">My Steam</a>
+- <a href="https://steamcommunity.com/id/jaxx3/" target="_blank" rel="noopener noreferrer">My Steam</a>
 - <a href="http://its-jaxx.github.io/" target="_blank" rel="noopener noreferrer">My Website</a>
 - <a href ="https://discord.com/invite/jVm3Sv4yuq/" target="_blank" rel="noopener noreferrer">Affiliated Discord Server</a>
 
