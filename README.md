@@ -1,8 +1,8 @@
-### Hi, there! :wave:
+### Hello, welcome to my GitHub
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=its-jaxx&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/its-jaxx?template=classic)
 
-## I'm **Jaxx**, developer from Oakley, California.
+## I'm **Jaxx**, and I'm a developer from California.
 - 19 y/o
 - <a href="https://discordapp.com/users/922843169480122388/" target="_blank" rel="noopener noreferrer">My Discord</a>
 - <a href="https://steamcommunity.com/id/jaxx3/" target="_blank" rel="noopener noreferrer">My Steam</a>
@@ -20,6 +20,6 @@
 
 <br/>
 
-### Visitors
+### Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/its-jaxx/count.svg)
 
