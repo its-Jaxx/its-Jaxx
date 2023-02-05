@@ -7,7 +7,6 @@
 - <a href="https://discordapp.com/users/922843169480122388/" target="_blank" rel="noopener noreferrer">My Discord</a>
 - <a href="https://steamcommunity.com/id/jaxx3/" target="_blank" rel="noopener noreferrer">My Steam</a>
 - <a href="http://its-jaxx.github.io/" target="_blank" rel="noopener noreferrer">My Website</a>
-- <a href ="https://discord.com/invite/jVm3Sv4yuq/" target="_blank" rel="noopener noreferrer">Affiliated Discord Server</a>
 
 ### Languages that I'm currently working with 💻
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
