@@ -23,7 +23,3 @@
 ### Current projects:
 I'm currently working on a simple <a href="https://github.com/its-Jaxx/MCSkin">Discord Bot</a> with <a href="https://github.com/nismo1337" target="_blank" rel="noopener noreferrer">nismo1337</a><br>
 It's a MC skin viewer and is currently open source and in development.<br>
-
-### Profile Views
-![Visitor Count](https://profile-counter.glitch.me/its-jaxx/count.svg)
-
