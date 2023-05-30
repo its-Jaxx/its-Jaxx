@@ -21,4 +21,4 @@
 <br/>
 
 ### Current projects:
-I created a <a href="https://github.com/nismo1337/MCSkin">MC skin viewer Discord bot</a> along with <a href="https://github.com/nismo1337" target="_blank" rel="noopener noreferrer">nismo1337</a> and is currently open source.
+Currently not working on anything.
