@@ -2,7 +2,7 @@
 
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=its-jaxx&show_icons=true&theme=midnight-purple&hide=contribs,issues">
-<img width="400" height="165" src="https://card.yuy1n.io/card/76561198190356459/radical,en,badge,text-04d9ff,bg-181919,games,badges">
+<img width="400" height="140" src="https://card.yuy1n.io/card/76561198190356459/radical,en,badge,text-04d9ff,bg-181919,games,badges">
 
 ## I'm **Jaxx**, and I'm a developer.
 - 19 y/o
