@@ -1,25 +1,31 @@
-### Hello, welcome to my GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2500&pause=1250&color=7F31CE&center=true&width=435&lines=Welcome+to+my+profile!;I'm+Jaxx%2C+and+I'm+a+developer!)](https://git.io/typing-svg)
 
+<h2>:busts_in_silhouette: How to reach me</h2>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=its-jaxx&show_icons=true&theme=midnight-purple&hide=contribs,issues">
-<img width="400" height="138" src="https://card.yuy1n.io/card/76561198190356459/radical,en,badge,text-04d9ff,bg-181919,games,badges">
+[![discord](https://img.shields.io/badge/jaxx-blue?logo=discord&logoColor=white)](https://discordapp.com/users/922843169480122388/)
+[![steam](https://img.shields.io/badge/jaxx-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/jaxx3/)
+</br>
 
-## I'm **Jaxx**, and I'm a developer.
-- 19 y/o
-- <a href="https://discordapp.com/users/922843169480122388/" target="_blank" rel="noopener noreferrer">My Discord</a>
-- <a href="https://steamcommunity.com/id/jaxx3/" target="_blank" rel="noopener noreferrer">My Steam</a>
-- <a href="http://its-jaxx.github.io/" target="_blank" rel="noopener noreferrer">My Website</a>
+<h2>💻 Languages</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+</br></br>
 
-### Languages that I'm currently working with 💻
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="C++" width="32px" src="https://user-images.githubusercontent.com/45857590/113528813-1137dd80-95c2-11eb-8192-b2118e99bb05.png" />
-<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Atom" alt="atom" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
+</br></br>
 
-<br/>
+<h2>:bar_chart: Current Projects</h2>
 
-### Current projects:
-Currently not working on anything.
+[![discord](https://img.shields.io/badge/Curently-Nothing-gray?logo=github&logoColor=white)](https://example.com/)
+
+<h2>:books: My personal website</h2>
+</br>
+<a href="https://jaxx.site/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+website&color=7E3ACE&style=for-the-badge" />
+</a>
+</br></br>
