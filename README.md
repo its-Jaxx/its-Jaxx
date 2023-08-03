@@ -22,7 +22,7 @@
 
 <h2>:bar_chart: Current Projects</h2>
 
-[![discord](https://img.shields.io/badge/Bot-Website-gray?logo=github&logoColor=white)](https://example.com/)
+[![discord](https://img.shields.io/badge/MC-Tech-green?logo=github&logoColor=white)](https://jaxx.site/mctech/)
 
 <h2>:books: My personal website</h2>
 </br>
