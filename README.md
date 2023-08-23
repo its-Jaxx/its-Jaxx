@@ -3,7 +3,7 @@
 <h2>:busts_in_silhouette: How to reach me</h2>
 
 [![discord](https://img.shields.io/badge/jaxx-blue?logo=discord&logoColor=white)](https://discordapp.com/users/922843169480122388/)
-[![steam](https://img.shields.io/badge/jaxx-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/jaxx3/)
+[![steam](https://img.shields.io/badge/jaxx-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/aftxr-lifx/)
 </br>
 
 <h2>💻 Languages</h2>
