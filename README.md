@@ -22,7 +22,7 @@
 
 <h2>:bar_chart: Current Projects</h2>
 
-[![mctech](https://img.shields.io/badge/MC-Tech-darkgreen?logo=github&logoColor=white)](https://jaxx.site/mctech/)
+[![mctech](https://img.shields.io/badge/MC-Tech-green?logo=github&logoColor=white)](https://jaxx.site/mctech/)
 
 <h2>:books: My personal website</h2>
 </br>
