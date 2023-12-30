@@ -20,7 +20,7 @@
 
 <h2>📊 Current Projects</h2>
 
-[![mctech](https://img.shields.io/badge/Currently%20Nothing-darkgreen?logo=github&logoColor=white)](https://example.com/)
+[![mctech](https://img.shields.io/badge/Currently%20Nothing-darkgreen?logo=github&logoColor=white)](https://cdn.jaxx.site/jaxx.png)
 
 <h2>📚 My personal website</h2>
 </br>
