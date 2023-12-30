@@ -20,7 +20,7 @@
 
 <h2>📊 Current Projects</h2>
 
-[![jaxx.site](https://img.shields.io/badge/Random%20Image%20Generator-darkgreen?logo=github&logoColor=white)](https://cdn.jaxx.site/jaxx.png)
+[![jaxx.site](https://img.shields.io/badge/Random%20Image%20Generator-blue?logo=github&logoColor=white)](https://cdn.jaxx.site/jaxx.png)
 
 <h2>📚 My personal website</h2>
 </br>
