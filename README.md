@@ -19,7 +19,7 @@
 
 <h2>📊 Current projects</h2>
 
-[![jaxx.site](https://img.shields.io/badge/Currently%20Nothing-gray?logo=github&logoColor=light-gray)](https://example.com/)
+[![jaxx.site](https://img.shields.io/badge/HexHue-magenta?logo=github&logoColor=light-gray)](https://example.com/)
 
 <h2>✅ Last finished project</h2>
 
