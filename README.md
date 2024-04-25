@@ -14,6 +14,7 @@
 
 <h2>🛠️ Things I use for coding</h2>
 <code><img title="Visual Studio Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Visual Studio Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="Atom" alt="atom" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
 </br></br>
