@@ -21,10 +21,8 @@
 
 <h2>📊 Current projects</h2>
 
-[![jaxx.site](https://img.shields.io/badge/HexHue-magenta?logo=github&logoColor=light-gray)](https://example.com/)
+[![empty](https://img.shields.io/badge/empty-gray?logo=github&logoColor=light-gray)](https://example.com/)
 
 <h2>✅ Last finished project</h2>
 
-[![Dynamic Image Website](https://img.shields.io/badge/Random%20Image%20Generator-blue?logo=github&logoColor=white)](https://github.com/its-Jaxx/Dynamic-Image-Website)<br>
-<a href="https://cdn.jaxx1337.xyz/jaxx.png">
-    <img alt="Showcase" src="https://img.shields.io/static/v1?label&message=View+Showcase&color=7E3ACE&style=for-the-badge"></a>
+[![pypi.org](https://img.shields.io/badge/HexHue-magenta?logo=github&logoColor=light-gray)](https://pypi.org/project/HexHue/)
