@@ -2,7 +2,7 @@
 <h2>👥 How to reach me</h2>
 
 [![Discord](https://img.shields.io/badge/aftxrlifx-blue?logo=discord&logoColor=white)](https://discordapp.com/users/922843169480122388/)
-[![Discord](https://img.shields.io/badge/.afterlifx-blue?logo=discord&logoColor=white)](https://discordapp.com/users/358712424221769739/)
+[![Discord](https://img.shields.io/badge/.aftxrlifx-blue?logo=discord&logoColor=white)](https://discordapp.com/users/358712424221769739/)
 [![Steam](https://img.shields.io/badge/jaxx-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/aftxr-lifx/)
 </br>
 
